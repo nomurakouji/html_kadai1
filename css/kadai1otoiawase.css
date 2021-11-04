@@ -1,0 +1,45 @@
+
+content{
+  width: 700px;
+}
+
+input.name{
+  width: 480px;
+}
+input.email{
+  width: 480px;
+}
+.write{
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+.write tr{
+  height: 7rem;
+}
+.write th{
+  width: 150px;
+  text-align: right;
+}
+.write td{
+  width: 480px;
+}
+
+.transfer{
+  text-align: center;
+}
+.message{
+  width: 480px;
+  height:7rem;
+}
+.btn{
+  background-color: #008B8B;
+  border: #008B8B;
+  color: #ffffff;
+  font-size: 3rem;
+  padding: 10px;
+  margin: 10px;
+}
+.btn:hover{
+  opacity: 0.5
+}
